@@ -35,8 +35,9 @@ Windows:
 Para instalar o Python no Windows acesse o site oficial (https://www.python.org/downloads/) e baixe a versão 3.9.4 ou posterior. Nesse mesmo site possui a documentação de instalação para cada sistema operacional.
 
 Linux:
-
+```sh
 sudo apt-get update
+```
 sudo apt-get install python3.9
 
 
