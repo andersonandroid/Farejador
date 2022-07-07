@@ -32,7 +32,7 @@ Esse software é foi um trabalho de conclusão do curso da pôs-graduação em C
 Configuração do ambiente:
 
 
-'''
+
 def Consulta(**parametros):
 
 	args = parametros
@@ -63,7 +63,7 @@ def Consulta(**parametros):
 		d = None
 		tempo = None
 		return resultPaths, d, tempo
-'''
+
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
