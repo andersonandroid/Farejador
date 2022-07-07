@@ -31,7 +31,8 @@ Esse software é foi um trabalho de conclusão do curso da pôs-graduação em C
 ## Setup:
 Configuração do ambiente:
 
-- [] Problema relatado
+# Marldown
+- [ ] Problema relatado
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
