@@ -7,7 +7,9 @@
 # Ferramenta de busca de imagem de pornografia infentojuvenil
 <sub>*Software Architec* da AI-HUB</sub>
 
-A informação é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. É o ativo mais importante do mundo
+O FAREJADOR é um software de código aberto que pode ser usado para buscar imagem de pornografial infantojuvenil.
+
+## Introdução:
 
 Minhas credenciais incluem pos graduação em Computação Forense e Perícia Digital no IPOG (Instituto de Pos Graduação), O corpo docente é formado por Peritos em Informática da Polícia Federal e 80% das disciplinas são práticas., e a graduação em Análise e Desenvolvimento de Sistemas para Internet (UNIFACS).
 
