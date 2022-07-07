@@ -28,8 +28,10 @@ Esse software é foi um trabalho de conclusão do curso da pôs-graduação em C
 
 
 
-## Projeto:
-Veja os tutoriais publicados do Sigmoidal:
+## Setup:
+Configuração do ambiente:
+
+- [] Problema relatado
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
