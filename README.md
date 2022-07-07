@@ -34,7 +34,6 @@ Configuração do ambiente:
 
 
 def Consulta(**parametros):
-
 	args = parametros
 	tree = pickle.loads(open(args["tree"], "rb").read())
 	hashes = pickle.loads(open(args["hashes"], "rb").read())
