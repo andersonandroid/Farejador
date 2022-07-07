@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# FAREJADOR
+# Ferramenta de busca de imagem de pornografia infentojuvenil
 <sub>*Software Architec* da AI-HUB</sub>
 
 A informação é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. É o ativo mais importante do mundo
