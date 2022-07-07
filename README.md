@@ -7,21 +7,28 @@
 # Ferramenta de busca de imagem de pornografia infentojuvenil
 <sub>*Software Architec* da AI-HUB</sub>
 
-O FAREJADOR é um software de código aberto que pode ser usado para buscar imagem de pornografial infantojuvenil.
+O FAREJADOR é um software de código aberto portável que pode ser usado para buscar imagem de pornografia infantojuvenil, que muitos casos, o perito de informática se depara com situações que precisam analisar no local imagens que comprovem a materalidade da prisão em flagrante do individuo.
 
 ## Introdução:
 
-Minhas credenciais incluem pos graduação em Computação Forense e Perícia Digital no IPOG (Instituto de Pos Graduação), O corpo docente é formado por Peritos em Informática da Polícia Federal e 80% das disciplinas são práticas., e a graduação em Análise e Desenvolvimento de Sistemas para Internet (UNIFACS).
+Esse software é foi um trabalho de conclusão do curso da pôs-graduação em Computação Forense e Perícia Digital (instituição IPOG). Um software focado em desempenho e na eficacia na busca de imagem usando tecnologias modernas.
 
-**Background in:** Python, PostgreSQL, Mongo DB, Sistemas Linux, IOT, Análise de Dados.
+<p align="center">
+  <img src="farejador.png" >
+</p>
 
-**Links:**
-* [Site](https://www.andersonsantanadev.com/i)
-* [LinkedIn](https://www.linkedin.com/in/anderson-santana-53a51a69)
-* [Medium](https://www.medium.com)
+**Tecnologias utilizadas:** Python, Hash, OpenCV, VP-Tree, SQLite.
+
+**Características:**
+* Suporte multiplataforma, testado em sistemas Windows e Linux
+* Não precisa de instalação podendo ser executado em unidade removíveis
+* Alto desempenho na indexação e na busca das imagens
+* Relatório com as evidências encontradas com seus metadados
+* Gera o hash das imagens encontradas para garantir a cadeia de custodia. 
 
 
-## Projetos:
+
+## Projeto:
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
