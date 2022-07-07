@@ -32,7 +32,38 @@ Esse software é foi um trabalho de conclusão do curso da pôs-graduação em C
 Configuração do ambiente:
 
 
-- [ x ] Problema relatado
+'''
+def Consulta(**parametros):
+
+	args = parametros
+	tree = pickle.loads(open(args["tree"], "rb").read())
+	hashes = pickle.loads(open(args["hashes"], "rb").read())
+	image = cv2.imread(args["consulta"])	
+	consultaHash = GeraHash(image)
+	consultaHash = ConverteHash(consultaHash)
+	inicial = time.time()
+	results = tree.get_all_in_range(consultaHash, int(args["distance"]))
+	results = sorted(results)
+	final = time.time()
+	tempo = format(final - inicial)
+	
+	if (len(results)) != 0:
+		for (d, h) in results:
+			
+			resultPaths = hashes.get(h, [])
+			for resultPath in resultPaths:
+				
+                resultPath
+				
+			resp = True
+
+		return resultPath, d, tempo
+	else:
+		resultPaths = None
+		d = None
+		tempo = None
+		return resultPaths, d, tempo
+'''
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
