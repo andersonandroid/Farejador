@@ -31,11 +31,11 @@ Esse software é foi um trabalho de conclusão do curso da pôs-graduação em C
 ## Setup:
 Configuração do ambiente:
 
-Windows:
+Instalação do Python no Windows:
 
 Para instalar o Python no Windows acesse o site oficial (https://www.python.org/downloads/) e baixe a versão 3.9.4 ou posterior. Nesse mesmo site possui a documentação de instalação para cada sistema operacional.
 
-Linux:
+Instalação do Python no Linux:
 
 Atualize o gerenciador de pacotes com o comando:
 ```sh
@@ -45,6 +45,21 @@ Para o Python 3.9, use este comando:
 ```sh
 sudo apt-get install python3.9
 ```
+
+Instalação das Bibliotecas no Python:
+```sh
+pip install numpy
+```
+```sh
+pip install opencv-contrib-python
+```
+```sh
+pip install imutils
+```
+```sh
+pip install vptree
+```
+
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
