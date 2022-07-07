@@ -35,11 +35,15 @@ Windows:
 Para instalar o Python no Windows acesse o site oficial (https://www.python.org/downloads/) e baixe a versão 3.9.4 ou posterior. Nesse mesmo site possui a documentação de instalação para cada sistema operacional.
 
 Linux:
+
+Atualize o gerenciador de pacotes com o comando:
 ```sh
 sudo apt-get update
 ```
+Para o Python 3.9, use este comando:
+```sh
 sudo apt-get install python3.9
-
+```
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
