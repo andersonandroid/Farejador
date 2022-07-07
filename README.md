@@ -32,6 +32,7 @@ Esse software é foi um trabalho de conclusão do curso da pôs-graduação em C
 Configuração do ambiente:
 
 Windows:
+
 Para instalar o Python no Windows acesse o site oficial (https://www.python.org/downloads/) e baixe a versão 3.9.4 ou posterior. Nesse mesmo site possui a documentação de instalação para cada sistema operacional.
 
 Linux:
