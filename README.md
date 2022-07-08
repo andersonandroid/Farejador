@@ -11,7 +11,7 @@ O FAREJADOR é um software de código aberto portável que pode ser usado para b
 
 ## Introdução:
 
-Esse software foi um trabalho de conclusão do curso da pôs-graduação em Computação Forense e Perícia Digital (instituição IPOG). Um software focado em desempenho e na eficacia na busca de imagem usando tecnologias modernas.
+Esse software foi um trabalho de conclusão do curso da pôs-graduação em Computação Forense e Perícia Digital (instituição IPOG). Um software focado em desempenho e na eficácia na busca de imagem usando tecnologias modernas.
 
 <p align="center">
   <img src="farejador.png?w=100">
@@ -68,7 +68,7 @@ pip install pyqt5 pyqt5-tool
 ```
 ## Demo:
 
-[![Watch the video](demo.gif)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](demo.gif)]
 
 ## Referências:
 
