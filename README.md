@@ -5,7 +5,7 @@
 </p>
 
 # Ferramenta de busca de imagem de pornografia infentojuvenil
-<sub>*Software Architec* da AI-HUB</sub>
+
 
 O FAREJADOR é um software de código aberto portável que pode ser usado para buscar imagem de pornografia infantojuvenil, que muitos casos, o perito de informática se depara com situações que precisam analisar no local imagens que comprovem a materalidade da prisão em flagrante do individuo.
 
@@ -30,6 +30,10 @@ Esse software foi um trabalho de conclusão do curso da pôs-graduação em Comp
 
 ## Setup:
 Configuração do ambiente de desenvolvimento:
+
+#Ferramenta de Desemvolvimento:
+
+Recomendamos o PyCharm (https://www.jetbrains.com/pt-br/pycharm/download/#section=windows), versão gratuito o Community.
 
 Instalação do Python no Windows:
 
