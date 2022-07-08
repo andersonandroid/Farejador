@@ -63,6 +63,9 @@ pip install imutils
 ```sh
 pip install vptree
 ```
+```sh
+pip install pyqt5 pyqt5-tool
+```
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
