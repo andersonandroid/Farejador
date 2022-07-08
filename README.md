@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-andersonsantana-red.svg)](https://www.linkedin.com/in/anderson-santana-53a51a69) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license]
+[![author](https://img.shields.io/badge/author-andersonsantana-red.svg)](https://www.linkedin.com/in/anderson-santana-53a51a69) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
 
 <p align="center">
   <img src="banner.png" >
@@ -31,7 +31,7 @@ Esse software foi um trabalho de conclusão do curso da pôs-graduação em Comp
 ## Setup:
 Configuração do ambiente de desenvolvimento.
 
-<strong>Ferramenta de Desenvolvimento:</strong>
+**Ferramenta de Desenvolvimento:**
 
 Recomendamos o PyCharm (https://www.jetbrains.com/pt-br/pycharm/download/#section=windows), versão gratuito o Community.
 
