@@ -60,7 +60,7 @@ pip install imutils
 pip install vptree
 ```
 
-![ezgif-5-a906cfcd3fd1](https://www.youtube.com/watch?v=wa2ARoUUdU8&t=286s)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
