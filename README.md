@@ -68,7 +68,7 @@ pip install pyqt5 pyqt5-tool
 ```
 ## Demo:
 
-[![Watch the video](demo.gif)]
+![Watch the video](demo.gif)
 
 ## Referências:
 
