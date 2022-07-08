@@ -29,7 +29,7 @@ Esse software é foi um trabalho de conclusão do curso da pôs-graduação em C
 
 
 ## Setup:
-Configuração do ambiente:
+Configuração do ambiente de desenvolvimento:
 
 Instalação do Python no Windows:
 
@@ -60,6 +60,7 @@ pip install imutils
 pip install vptree
 ```
 
+![ezgif-5-a906cfcd3fd1](https://user-images.githubusercontent.com/34013325/57246263-33f69b80-7013-11e9-97a1-2f84acf2a7fe.gif)
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
