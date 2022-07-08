@@ -38,7 +38,7 @@ Configuração do ambiente de desenvolvimento.
 
 **Ferramenta de Desenvolvimento:**
 
-Recomendamos o PyCharm versão gratuito o Community (https://www.jetbrains.com/pt-br/pycharm/download/#section=windows).
+Recomendamos o PyCharm versão gratuito o Community (https://encurtador.com.br/ctH45).
 
 <b>Instalação do Python no Windows:</b>
 
@@ -82,13 +82,12 @@ pip install pyqt5 pyqt5-tool
 * TINEYE. Reverse Image Search. 2022a. Disponível em: https://tineye.com.
 * TINEYE. Reverse Image Search FAQ. 2022b. Disponível em: https://tineye.com/faq.
 * MICROSOFT. PhotoDNA Cloud Service. 2022b. Disponível em: https://www.microsoft.com/en-us/photodna.
-* MICROSOFT. PhotoDNA Cloud Service FAQ. 2022b. Disponível em: https://www.microsoft.com/en-us/PhotoDNA/FAQ.
-* OPENCV. OpenCV Open Source Computer Vision Library. 2022a. Disponível em: https://github.com/opencv/opencv.
-* WIKIPÉDIA. Distância de Hamming. 2022a. Disponível em: https://pt.wikipedia.org/wiki/Dist%C3%A2ncia_de_Hamming.
-* STEVE. VP trees: A data structure for finding stuff fast. 2022a. Disponível em: http://stevehanov.ca/blog/?id=130>.
-* Nielsen. Bregman proximity queries. 2022a. Disponível em: https://www.lix.polytechnique.fr/~nielsen/BregmanProximity/>.
-* Fribbels. VP-Tree. 2022a. Disponível em: https://fribbels.github.io/vptree/writeup.
-* Pymagesearch. Image Search VP-Tree and OpenCV. 2022a. Disponível em: https://pyimagesearch.com/2019/08/26/building-an-image-hashing-search-engine-with-vp-trees-and-opencv.
+* MICROSOFT. PhotoDNA Cloud Service FAQ. 2022b. Disponível em: https://encurtador.com.br/bkmT7.
+* OPENCV. OpenCV Open Source Computer Vision Library. 2022a. Disponível em: https://encurtador.com.br/jwY15.
+* WIKIPÉDIA. Distância de Hamming. 2022a. Disponível em: https://encurtador.com.br/goBGI.
+* STEVE. VP trees: A data structure for finding stuff fast. 2022a. Disponível em: http://encurtador.com.br/pwDLM.
+* Nielsen. Bregman proximity queries. 2022a. Disponível em: https://encurtador.com.br/ksCL6.
+* Pymagesearch. Image Search VP-Tree and OpenCV. 2022a. Disponível em: https://encurtador.com.br/mwJZ8.
 * PyQT. QT for Python Docmentation. 2022a. Disponível em: https://doc.qt.io/qtforpython.
 
 
