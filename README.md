@@ -11,7 +11,7 @@ O FAREJADOR é um software de código aberto portável que pode ser usado para b
 
 ## Introdução:
 
-Esse software é foi um trabalho de conclusão do curso da pôs-graduação em Computação Forense e Perícia Digital (instituição IPOG). Um software focado em desempenho e na eficacia na busca de imagem usando tecnologias modernas.
+Esse software foi um trabalho de conclusão do curso da pôs-graduação em Computação Forense e Perícia Digital (instituição IPOG). Um software focado em desempenho e na eficacia na busca de imagem usando tecnologias modernas.
 
 <p align="center">
   <img src="farejador.png?w=100">
@@ -61,6 +61,14 @@ pip install vptree
 ```
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+
+## Referências:
+
+* **BARELI, Felipe da Costa. Introdução à Visão Computacional. São Paulo: Casa do Código, 2019.
+* **MENEZES, Nilo Ney Coutinho. Introdução à Programação com Python . São Paulo: Novatec, 2017.
+* **ELEUTÉRIO, Pedro Monteiro da Silva; MACHADO, Marcio Pereira. Desvendando a Computação Forense . São Paulo: Novatec, 2011.
+* **ELEUTÉRIO. Nudetective. [S.l.], 2022a. Disponível em: < http://www.eleuterio.com/nudetective.html>. Acesso em: 05 mai. 2022.
+* **TINEYE. Reverse Image Search. [S.l.], 2022a. Disponível em: < https://tineye.com/>. Acesso em: 05 mai. 2022.
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
