@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-andersonsantana-red.svg)](https://www.linkedin.com/in/anderson-santana-53a51a69) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
+[![author](https://img.shields.io/badge/author-andersonsantana-red.svg)](https://www.linkedin.com/in/anderson-santana-53a51a69) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
   <img src="banner.png" >
@@ -50,7 +50,7 @@ Para o Python 3.9, use este comando:
 sudo apt-get install python3.9
 ```
 
-Instalação das Bibliotecas no Python:
+<b>Instalação das Bibliotecas no Python:</b>
 ```sh
 pip install numpy
 ```
