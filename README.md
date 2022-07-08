@@ -28,6 +28,9 @@ Esse software foi um trabalho de conclusão do curso da Pôs-Graduação em Comp
 * Relatório com as evidências encontradas com seus metadados
 * Gera o hash das imagens encontradas para garantir a cadeia de custódia. 
 
+## Demo:
+
+![Watch the video](demo.gif)
 
 
 ## Setup:
@@ -68,9 +71,7 @@ pip install vptree
 ```sh
 pip install pyqt5 pyqt5-tool
 ```
-## Demo:
 
-![Watch the video](demo.gif)
 
 ## Referências:
 
