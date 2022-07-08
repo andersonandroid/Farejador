@@ -88,6 +88,6 @@ pip install pyqt5 pyqt5-tool
 * Nielsen. Bregman proximity queries. 2022a. Disponível em: https://www.lix.polytechnique.fr/~nielsen/BregmanProximity/>.
 * Fribbels. VP-Tree. 2022a. Disponível em: https://fribbels.github.io/vptree/writeup.
 * Pymagesearch. Image Search VP-Tree and OpenCV. 2022a. Disponível em: https://pyimagesearch.com/2019/08/26/building-an-image-hashing-search-engine-with-vp-trees-and-opencv/>.
-* PyQT. QT for Python Docmentation. [S.l.], 2022a. Disponível em: https://doc.qt.io/qtforpython/>.
+* PyQT. QT for Python Docmentation. 2022a. Disponível em: https://doc.qt.io/qtforpython/>.
 
 
