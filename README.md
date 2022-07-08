@@ -31,7 +31,7 @@ Esse software foi um trabalho de conclusão do curso da pôs-graduação em Comp
 ## Setup:
 Configuração do ambiente de desenvolvimento:
 
-#Ferramenta de Desemvolvimento:
+<strong>Ferramenta de Desemvolvimento:</strong>
 
 Recomendamos o PyCharm (https://www.jetbrains.com/pt-br/pycharm/download/#section=windows), versão gratuito o Community.
 
