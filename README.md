@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Ferramenta de busca de imagem de pornografia infentojuvenil
+# Ferramenta de busca de imagem de pornografia infantojuvenil
 
 
 O FAREJADOR é um software de código aberto portável que pode ser usado para buscar imagem de pornografia infantojuvenil, que muitos casos, o perito de informática se depara com situações que precisam analisar no local imagens que comprovem a materalidade da prisão em flagrante do individuo.
@@ -33,11 +33,11 @@ Configuração do ambiente de desenvolvimento.
 
 **Ferramenta de Desenvolvimento:**
 
-Recomendamos o PyCharm (https://www.jetbrains.com/pt-br/pycharm/download/#section=windows), versão gratuito o Community.
+Recomendamos o PyCharm versão gratuito o Community (https://www.jetbrains.com/pt-br/pycharm/download/#section=windows).
 
 <b>Instalação do Python no Windows:</b>
 
-Para instalar o Python no Windows acesse o site oficial (https://www.python.org/downloads/) e baixe a versão 3.9.4 ou posterior. Nesse mesmo site possui a documentação de instalação para cada sistema operacional.
+Para instalar o Python no Windows acesse o site oficial (https://www.python.org/downloads/), baixe a versão 3.9.4 ou posterior. Nesse mesmo site possui a documentação de instalação para cada sistema operacional.
 
 <b>Instalação do Python no Linux:</b>
 
@@ -66,8 +66,9 @@ pip install vptree
 ```sh
 pip install pyqt5 pyqt5-tool
 ```
+## Demo:
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](demo.gif)](https://youtu.be/T-D1KVIuvjA)
 
 ## Referências:
 
