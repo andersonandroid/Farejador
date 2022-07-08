@@ -88,7 +88,7 @@ pip install pyqt5 pyqt5-tool
 * STEVE. VP trees: A data structure for finding stuff fast. 2022a. Disponível em: http://stevehanov.ca/blog/?id=130>.
 * Nielsen. Bregman proximity queries. 2022a. Disponível em: https://www.lix.polytechnique.fr/~nielsen/BregmanProximity/>.
 * Fribbels. VP-Tree. 2022a. Disponível em: https://fribbels.github.io/vptree/writeup.
-* Pymagesearch. Image Search VP-Tree and OpenCV. 2022a. Disponível em: https://pyimagesearch.com/2019/08/26/building-an-image-hashing-search-engine-with-vp-trees-and-opencv/>.
-* PyQT. QT for Python Docmentation. 2022a. Disponível em: https://doc.qt.io/qtforpython/>.
+* Pymagesearch. Image Search VP-Tree and OpenCV. 2022a. Disponível em: https://pyimagesearch.com/2019/08/26/building-an-image-hashing-search-engine-with-vp-trees-and-opencv.
+* PyQT. QT for Python Docmentation. 2022a. Disponível em: https://doc.qt.io/qtforpython.
 
 
