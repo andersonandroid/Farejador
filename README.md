@@ -48,7 +48,7 @@ Para instalar o Python no Windows acesse o site oficial (https://www.python.org/
 
 Atualize o gerenciador de pacotes com o comando:
 ```sh
-sudo apt-get update
+sudo apt update && sudo apt upgrade
 ```
 Para o Python 3.9, use este comando:
 ```sh
