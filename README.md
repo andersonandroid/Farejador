@@ -29,17 +29,17 @@ Esse software foi um trabalho de conclusão do curso da pôs-graduação em Comp
 
 
 ## Setup:
-Configuração do ambiente de desenvolvimento:
+Configuração do ambiente de desenvolvimento.
 
-<strong>Ferramenta de Desemvolvimento:</strong>
+<strong>Ferramenta de Desenvolvimento:</strong>
 
 Recomendamos o PyCharm (https://www.jetbrains.com/pt-br/pycharm/download/#section=windows), versão gratuito o Community.
 
-Instalação do Python no Windows:
+<b>Instalação do Python no Windows:</b>
 
 Para instalar o Python no Windows acesse o site oficial (https://www.python.org/downloads/) e baixe a versão 3.9.4 ou posterior. Nesse mesmo site possui a documentação de instalação para cada sistema operacional.
 
-Instalação do Python no Linux:
+<b>Instalação do Python no Linux:</b>
 
 Atualize o gerenciador de pacotes com o comando:
 ```sh
