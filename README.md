@@ -7,10 +7,11 @@
 # Ferramenta de busca de imagem de pornografia infanto-juvenil
 
 
-O FAREJADOR é um software de código aberto portável que pode ser usado para buscar imagem de pornografia infanto-juvenil, que muitos casos, o perito de informática se depara com situações que precisam analisar no local imagens que comprovem a materalidade da prisão em flagrante do individuo.
+O FAREJADOR é um software de código aberto portável que pode ser usado para buscar imagem de pornografia infanto-juvenil em grandes volumes.
 
 ## Introdução:
 
+Nos úlimos anos, tem-se verificado um elevado aumento de denúncias dos crimes de ciberpedofilia. Como consequência deste crescimento, o número de operações de busca e apreensão cresceram também, e com isso, o perito de informática se depara com situações que precisam analisar no local imagens que comprovem a materalidade da prisão em flagrante do indivuduo.
 Esse software foi um trabalho de conclusão do curso da Pôs-Graduação em Computação Forense e Perícia Digital (instituição IPOG). Um software focado em desempenho e na eficácia na busca de imagem usando tecnologias modernas.
 
 <p align="center">
