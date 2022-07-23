@@ -33,6 +33,10 @@ Esse software foi um trabalho de conclusão do curso da Pôs-Graduação em Comp
 ![Watch the video](demo.gif)
 
 
+## Vídeos:
+
+* Estrutura do Projeto Farejador: https://youtu.be/6Qlsc_jM9Tg.
+
 ## Setup:
 Configuração do ambiente de desenvolvimento.
 
@@ -48,7 +52,7 @@ Para instalar o Python no Windows acesse o site oficial (https://www.python.org/
 
 Atualize o gerenciador de pacotes com o comando:
 ```sh
-sudo apt update && sudo apt upgrade
+sudo apt-get update
 ```
 Para o Python 3.9, use este comando:
 ```sh
