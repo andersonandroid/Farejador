@@ -36,6 +36,13 @@ Esse software foi um trabalho de conclusão do curso da Pôs-Graduação em Comp
 ## Vídeos:
 
 * Estrutura do Projeto Farejador: https://youtu.be/6Qlsc_jM9Tg.
+* Overview do Software Farejador: https://youtu.be/2Ldq2OXm9vY.
+* Criação do Dataset das imagens no Farejador: https://youtu.be/4aWameh7nYw.
+* Pesquisar uma imagem no Software Farejador: https://youtu.be/sxdq3xRJwWg.
+* Pesquisar várias imagens no Software Farejador: https://youtu.be/pg2WVNBBQDo.
+* Gerar o arquivo com as evidências encontradas no Software Farejador: https://youtu.be/DkniUWYYjGM.
+
+
 
 ## Setup:
 Configuração do ambiente de desenvolvimento.
