@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Imagens">
+    <file>Nopcoes.png</file>
+    <file>Ntres-opcoes.png</file>
+  </qresource>
+</RCC>
